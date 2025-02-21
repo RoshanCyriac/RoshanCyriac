@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/RoshanCyriac7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="20" height="20" alt="LinkedIn">
+    RoshanCyriac7
+</a>
