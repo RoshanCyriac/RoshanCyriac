@@ -19,3 +19,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="20" height="20" alt="LinkedIn">
     RoshanCyriac7
 </a>
+<a href="mailto:roshancyriac.k@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="20" height="20" alt="Gmail">
+    roshancyriac.k@gmail.com
+</a>
